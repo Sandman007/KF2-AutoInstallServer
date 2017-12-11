@@ -32,4 +32,4 @@ cd ~/steamcmd
 #sh $HOME/github/CSGO-SURF/scripts/setup.sh
 
 # add start script
-cp -f ~/github/CSGO-SURF/scripts/start.sh $server_dir
+cp -f ~/github/KF2-AutoInstallServer/scripts/start.sh $server_dir
